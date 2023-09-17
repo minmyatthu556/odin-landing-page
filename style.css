@@ -63,7 +63,18 @@ body {
     border: 3px solid #D5292C;
     padding: 10px 50px;
     font-weight: 900;
-    font-size: 40px;
+    font-size: 20px;
+    align-self: flex-end;
+}
+
+.beg-for-you {
+    border: 3px solid #D5292C;
+    padding: 10px 50px;
+    font-weight: 900;
+    font-size: 20px;
+    align-self: flex-end;
+    color: white;
+    text-decoration: none;
 }
 
 /* #D5292C */
