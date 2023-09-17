@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: black;
+}
+
+.header {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+}
+
+.header .crash-logo {
+    width: 150px;
+}
+
+.shop {
+    margin-left: auto;
+}
+
+.newsletter {
+    margin-left: 80px;
+}
+
+.profile {
+    padding: 8px;
+    border-radius: 50%;
+    background-color: #D5292C;
+    margin-left: 80px;
+    margin-right: 20px;
+    width: 20px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.album-cover {
+    width: 1200px;
+}
+
+.hero-content {
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.xcx-logo {
+    width: 600px;
+}
+
+.crash-logo {
+    width: 300px;
+}
+
+.hero-text {
+    border: 3px solid #D5292C;
+    padding: 10px 50px;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+/* #D5292C */
