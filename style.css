@@ -36,7 +36,6 @@ body {
 .hero {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 110px;
 }
 
 .album-cover {
@@ -111,7 +110,6 @@ body {
 }
 
 .content {
-    margin-top: 80px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -131,7 +129,7 @@ body {
     background-color: #D5292C;
     padding: 10px 50px;
     font-size: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     font-weight: 600;
 }
 
